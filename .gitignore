@@ -1,0 +1,12 @@
+fake-ip-gonerator-gui
+*.exe
+*.apk
+bin/
+
+*.tar.*
+
+fyne-cross
+.cache
+
+result
+.direnv
