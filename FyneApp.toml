@@ -1,3 +1,5 @@
 [Details]
   Icon = "icon.png"
   Name = "Fake IP Go-nerator"
+  ID = "zip.colonthree.fig"
+  Version = "0.0.2"
